@@ -6,7 +6,7 @@
 # ============================================================
 set -euo pipefail
 
-GITHUB_RAW="https://raw.githubusercontent.com/sleepachu-exe/pterodactyl-lazymc-egg/main"
+GITHUB_RAW="https://raw.githubusercontent.com/AlvaroDonoso05/pterodactyl-lazymc-egg/refs/heads/main"
 
 echo ""
 echo "=================================================="
